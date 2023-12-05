@@ -12,10 +12,10 @@ const Login = () => {
   return (
     <div className="flex justify-center items-center h-screen w-screen">
       <TwitterLogin
-        loginUrl="http://localhost:8000/api/v1/auth/twitter"
+        loginUrl="https://react-twitter-auth.onrender.com/api/v1/auth/twitter"
         onFailure={onFailed}
         onSuccess={onSuccess}
-        requestTokenUrl="http://localhost:8000/api/v1/auth/twitter/reverse"
+        requestTokenUrl="https://react-twitter-auth.onrender.com/api/v1/auth/twitter/reverse"
         showIcon={true}
         forceLogin={true}
         className="flex"

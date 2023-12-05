@@ -86,7 +86,6 @@ In order to run this project you need npm which is included with Node.js.
 Clone this repository to your desired folder:
 
 ```sh
-  cd my-folder
   git clone https://github.com/codepantha/react-twitter-auth
 ```
 
@@ -98,8 +97,6 @@ Install this project with:
   cd react-twitter-auth
   cd client
   npm install --legacy-peer-deps
-  cd server
-  npm install
 ```
 
 ### Usage

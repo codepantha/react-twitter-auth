@@ -117,7 +117,7 @@ To run tests, run the following command:
 
 ### Deployment
 
->You can deploy this project using: [Netlify](https://app.netlify.com)
+>App is deployed on [Netlify](https://app.netlify.com). See the live [demo](https://react-twitter-auth.netlify.app/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
